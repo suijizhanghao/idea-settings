@@ -12,7 +12,7 @@
   <component name="EditorSettings">
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
-    <option name="TOOLTIPS_DELAY_MS" value="10" />
+    <option name="TOOLTIPS_DELAY_MS" value="1000" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
 </application>
