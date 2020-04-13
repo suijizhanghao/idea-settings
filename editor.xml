@@ -9,10 +9,12 @@
   <component name="DaemonCodeAnalyzerSettings">
     <option name="AUTOREPARSE_DELAY" value="5" />
   </component>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="12" />
+  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
-    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
     <option name="TOOLTIPS_DELAY_MS" value="1000" />
   </component>
 </application>
